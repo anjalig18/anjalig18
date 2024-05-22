@@ -8,7 +8,7 @@ I am a passionate  Web Developer from Kolkata, West Bengal. With a strong founda
 
 ## 💼 Professional Experience
 
-**Full Stack Web Developer** @ CodeSoft (Sep 2023 - Present)
+**Web Developer** 
 - Crafted engaging user interfaces and ensured seamless user experiences.
 - Worked extensively with HTML, CSS, JavaScript, and frameworks like React, Node.js, and Express.js to build responsive and visually appealing web applications.
 - Collaborated with cross-functional teams and refined skills in UI/UX design, accessibility, and performance optimization.
