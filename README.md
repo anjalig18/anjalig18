@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate Full Stack Web Developer from Kolkata, West Bengal. With a strong foundation in programming languages like JavaScript, Python, Java, and PHP, I strive to create innovative and efficient web applications.
+I am a passionate Full Stack Web Developer from Kolkata, West Bengal. With a strong foundation in programming languages like JavaScript,express.js,Python, c++ and PHP, I strive to create innovative and efficient web applications.
 
 ## 💼 Professional Experience
 
@@ -19,15 +19,15 @@ I am a passionate Full Stack Web Developer from Kolkata, West Bengal. With a str
 
 **Languages:** JavaScript, Python, Java, PHP, SQL
 
-**Front-end:** HTML, CSS, React, Redux, Bootstrap, Material-UI
+**Front-end:** HTML, CSS, React, Bootstrap
 
-**Back-end:** Node.js, Express.js, RESTful APIs, MERN Stack
+**Back-end:** Node.js, Express.js, RESTful APIs,
 
-**Database:** MySQL, MongoDB
+**Database:** MySQL, MongoDB , Postman
 
 **Developer Tools:** VS Code, Figma, Canva, PowerBI, Tableau, Google Colab
 
-**Technologies/Frameworks:** Linux, GitHub, Git
+**Technologies/Frameworks:** Linux, GitHub, Git , react
 
 ## 💻 Projects
 
