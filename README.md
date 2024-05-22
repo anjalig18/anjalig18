@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate Full Stack Web Developer from Kolkata, West Bengal. With a strong foundation in programming languages like JavaScript,express.js,Python, c++ and PHP, I strive to create innovative and efficient web applications.
+I am a passionate  Web Developer from Kolkata, West Bengal. With a strong foundation in programming languages like JavaScript,express.js,Python, c++ and PHP, I strive to create innovative and efficient web applications.
 
 ## 💼 Professional Experience
 
