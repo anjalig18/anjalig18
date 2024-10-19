@@ -49,42 +49,6 @@ I am a passionate  Web Developer from Kolkata, West Bengal. With a strong founda
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-## 💻 Projects
-
-### Weather App 🌤️
-- Developed a dynamic weather application using HTML, CSS, and JavaScript.
-- Delivered real-time weather updates and implemented responsive design.
-- Integrated APIs for accurate weather data retrieval and utilized CSS for modern UI/UX enhancements.
-
-### Quiz App 🤔
-- Created an interactive quiz application using HTML, CSS, and JavaScript.
-- Developed responsive design for optimal accessibility across various devices.
-- Utilized JavaScript for dynamic content generation and user interaction.
-- Implemented CSS for sleek and modern UI design.
-
-### Quote App 💬
-- Designed and implemented a dynamic quote application using HTML, CSS, and JavaScript.
-- Fetched and displayed random quotes, providing fresh inspiration with each visit.
-- Utilized CSS to ensure an appealing and responsive layout for seamless user experience.
-
-### E-Commerce 🛒
-- Implemented SQL and NoSQL database solutions for an e-commerce platform.
-- Designed database schemas to support product catalogs, user accounts, and transactions.
-- Utilized SQL and MongoDB queries for data manipulation, retrieval, and optimization tasks.
-- Implemented database security measures to safeguard sensitive customer information.
-
-### Real-Time Stock Price Prediction and Investment Suggestion System 📈
-- Developed a real-time stock prediction system using machine learning.
-- Fetched streaming price data, computed technical indicators, and trained predictive models.
-- Suggested profitable buy/sell signals based on real-time analysis.
-
-### Football Management System ⚽
-- Built a comprehensive football management system using HTML, CSS, JavaScript, PHP, and SQL database.
-- Implemented user authentication and authorization features.
-- Integrated real-time updates and notifications for match schedules, results, and player statistics.
-- Developed an intuitive user interface using modern UI/UX design principles with Figma.
-
 ## 🏆 Certifications
 
 - HTML, CSS, JavaScript - Bash School
